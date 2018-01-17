@@ -12,7 +12,7 @@ Using upload feature. Every posted picture can be commented and like.
 SCHEMA OF COLLECTIONS
 ---------------------
 
-We have two (2) collections. The first is users, memes and comments. Schema for users are:
+We have two (2) collections. users and memes. Schema for users are:
 
 1. Name type String
 2. User Name type String
